@@ -1,0 +1,19 @@
+{
+  "name": "rx-tutorial",
+  "description": "An rx tutorial using RxJs as library, React as UI, svg as output.",
+  "version": "0.0.146",
+  "dependencies": {
+    "rx": "4.1.0",
+    "react-dom": "15.4.2",
+    "react": "15.4.2"
+  },
+  "devDependencies": {
+    "react-scripts": "1.0.0"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  }
+}
