@@ -63,10 +63,10 @@ const App = () => (
     <h1> FRP with Rx</h1>
     <p>
       {" "}
-      What actually is FRP? Basically you can think of it as programming with
-      channels rather than with values. Instead of specifying how we get from
-      one value to the other value, we specify how we get from one stream of
-      events to the next stream of events.
+      What is FRP? Basically you can think of it as programming with channels
+      rather than with values. Instead of specifying how we get from one value
+      to the other value, we specify how we get from one stream of events to the
+      next stream of events.
     </p>
     <h2> What are streams?</h2>
     <TimeLine topic={topic1} />
